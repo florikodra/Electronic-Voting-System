@@ -1,0 +1,12 @@
+[20-Mar-2018 10:27:52 America/New_York] PHP Warning:  include(conn.php): failed to open stream: No such file or directory in /home/sfzqpcra/diploma.florikodra.com/mobile/candidates.php on line 1
+[20-Mar-2018 10:27:52 America/New_York] PHP Warning:  include(conn.php): failed to open stream: No such file or directory in /home/sfzqpcra/diploma.florikodra.com/mobile/candidates.php on line 1
+[20-Mar-2018 10:27:52 America/New_York] PHP Warning:  include(): Failed opening 'conn.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/sfzqpcra/diploma.florikodra.com/mobile/candidates.php on line 1
+[20-Mar-2018 10:27:52 America/New_York] PHP Notice:  Undefined variable: conn in /home/sfzqpcra/diploma.florikodra.com/mobile/candidates.php on line 5
+[20-Mar-2018 10:27:52 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sfzqpcra/diploma.florikodra.com/mobile/candidates.php on line 5
+[20-Mar-2018 10:27:54 America/New_York] PHP Warning:  include(conn.php): failed to open stream: No such file or directory in /home/sfzqpcra/diploma.florikodra.com/mobile/candidates.php on line 1
+[20-Mar-2018 10:27:54 America/New_York] PHP Warning:  include(conn.php): failed to open stream: No such file or directory in /home/sfzqpcra/diploma.florikodra.com/mobile/candidates.php on line 1
+[20-Mar-2018 10:27:54 America/New_York] PHP Warning:  include(): Failed opening 'conn.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/sfzqpcra/diploma.florikodra.com/mobile/candidates.php on line 1
+[20-Mar-2018 10:27:54 America/New_York] PHP Notice:  Undefined variable: conn in /home/sfzqpcra/diploma.florikodra.com/mobile/candidates.php on line 5
+[20-Mar-2018 10:27:54 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sfzqpcra/diploma.florikodra.com/mobile/candidates.php on line 5
+[27-Mar-2018 05:32:04 America/New_York] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/sfzqpcra/diploma.florikodra.com/conn.php on line 3
+[27-Mar-2018 05:37:45 America/New_York] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/sfzqpcra/diploma.florikodra.com/conn.php on line 3
